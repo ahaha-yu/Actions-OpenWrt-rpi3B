@@ -1,4 +1,4 @@
-﻿#在线编译Openwrt
+＃在线编译Openwrt
 
 使用GitHub Actions构建OpenWrt
 
