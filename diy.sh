@@ -12,6 +12,7 @@
 cd package
 git clone https://github.com/BoringCat/luci-app-mentohust
 git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk
-
+#add ssr plus
+git clone https://github.com/fw876/helloworld
 # Add luci-app-onliner (need luci-app-nlbwmon)
 git clone https://github.com/rufengsuixing/luci-app-onliner
